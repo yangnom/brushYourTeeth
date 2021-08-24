@@ -1,3 +1,3 @@
-# App Store: Privacy Policy
+# App store: Description.
 
-Brush Your Teeth does not automatically send any data to anyone.
+An app to help you time, track and remember to brush your teeth.
